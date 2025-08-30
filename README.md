@@ -12,3 +12,5 @@
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 python3 breach_eda.py
+## Preview
+![Height vs Weight (sample)](figures/height_vs_weight.png)
